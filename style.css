@@ -1,0 +1,32 @@
+body {
+    font-family: Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    background-color: yellow;
+  }
+  
+  .range-container10 {
+    text-align: center;
+    margin: 20px;
+    padding: 20px;
+    border: 1px solid black;
+    border-radius: 5px;
+  }
+  
+  label {
+    display: block;
+    margin-bottom: 10px;
+  }
+  
+  input {
+    width: 80%;
+  }
+  
+  #selectedValue {
+    margin-top: 10px;
+    font-weight: bold;
+  }
+  
